@@ -85,6 +85,7 @@ b {
   left: -6rem;
   -webkit-filter: brightness(40%) saturate(250%);
           filter: brightness(40%) saturate(250%);
+  z-index: -1;
 }
 
 .header {
